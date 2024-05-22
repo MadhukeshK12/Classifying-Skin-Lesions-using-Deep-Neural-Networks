@@ -9,6 +9,9 @@ There are seven distinct categories of skin cancer, as follows:
 
 ![image](https://github.com/MadhukeshK12/skin_lesion_classifier/assets/115413028/c7f78f1a-abb9-4464-b735-ccbb1b09bd8e)
 
+Few images of each classes from the dataset are shown below:
+
+![image](https://github.com/MadhukeshK12/skin_lesion_classifier/assets/115413028/455f45a9-ea74-40d8-8388-48265aa954fc)
 
 Dataset link: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
