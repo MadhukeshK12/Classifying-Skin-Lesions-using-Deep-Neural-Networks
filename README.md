@@ -19,6 +19,7 @@ Few images of each classes from the dataset are shown below:
 Dataset consists of highly unbalanced data, meaning it consists of data which are unevenly distributed. This type of distribution directly affects the accuracy of the model in the classification of the input images.
 
 ![image](https://github.com/MadhukeshK12/Classifying-Skin-Lesions-using-Deep-Neural-Networks/assets/115413028/34ea725b-3383-4d4d-874b-0fc96d607692)
+
 Fig: Bar graph of each classes from the dataset
 
 Class Melanocytic nevi has the majority of the data and the class Dermatofibroma has the least data.  The presence of one class having majority of data may introduce bias in the prediction of the model which in turn reduces the accuracy. It is most important for a model to identify classes with least data, so that it is not biased towards the classes having majority of the observations or data.
