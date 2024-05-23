@@ -39,6 +39,22 @@ We resize the images into 32 x 32 so that it makes computation easier and faster
 2. Convolution Neural Network
 3. Transfer Learning - VGG16
 
-
-
 load the data_preprocessing.py before running the models
+
+
+# Results
+Compared to all the three models, CNN model best performs with the accuracy of 75.20 %. 
+
+![image](https://github.com/MadhukeshK12/Classifying-Skin-Lesions-using-Deep-Neural-Networks/assets/115413028/30438479-1433-47e0-bc28-d57274d977c8)
+Fig: classification report for our CNN model
+
+![image](https://github.com/MadhukeshK12/Classifying-Skin-Lesions-using-Deep-Neural-Networks/assets/115413028/96514028-0815-4738-84a0-f0fa44e8f8d0)
+Fig: CNN models loss curves
+
+![image](https://github.com/MadhukeshK12/Classifying-Skin-Lesions-using-Deep-Neural-Networks/assets/115413028/3b8b349a-aa1d-46ad-9f2a-c2717da254d8)
+Fig: CNN models accuracy curves
+
+
+
+
+
