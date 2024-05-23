@@ -17,6 +17,7 @@ Few images of each classes from the dataset are shown below:
 
 # Unbalanced Dataset
 Dataset consists of highly unbalanced data, meaning it consists of data which are unevenly distributed. This type of distribution directly affects the accuracy of the model in the classification of the input images.
+
 ![image](https://github.com/MadhukeshK12/Classifying-Skin-Lesions-using-Deep-Neural-Networks/assets/115413028/34ea725b-3383-4d4d-874b-0fc96d607692)
 Fig: Bar graph of each classes from the dataset
 
@@ -46,12 +47,15 @@ load the data_preprocessing.py before running the models
 Compared to all the three models, CNN model best performs with the accuracy of 75.20 %. 
 
 ![image](https://github.com/MadhukeshK12/Classifying-Skin-Lesions-using-Deep-Neural-Networks/assets/115413028/30438479-1433-47e0-bc28-d57274d977c8)
+
 Fig: classification report for our CNN model
 
 ![image](https://github.com/MadhukeshK12/Classifying-Skin-Lesions-using-Deep-Neural-Networks/assets/115413028/96514028-0815-4738-84a0-f0fa44e8f8d0)
+
 Fig: CNN models loss curves
 
 ![image](https://github.com/MadhukeshK12/Classifying-Skin-Lesions-using-Deep-Neural-Networks/assets/115413028/3b8b349a-aa1d-46ad-9f2a-c2717da254d8)
+
 Fig: CNN models accuracy curves
 
 
