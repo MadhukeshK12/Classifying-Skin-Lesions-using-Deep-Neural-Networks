@@ -43,7 +43,7 @@ We resize the images into 32 x 32 so that it makes computation easier and faster
 load the data_preprocessing.py before running the models
 
 
-# Results
+# Result
 Compared to all the three models, CNN model best performs with the accuracy of 75.20 %. 
 
 ![image](https://github.com/MadhukeshK12/Classifying-Skin-Lesions-using-Deep-Neural-Networks/assets/115413028/30438479-1433-47e0-bc28-d57274d977c8)
